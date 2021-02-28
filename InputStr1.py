@@ -5,6 +5,18 @@ Date: Monday, 01-03-2021
 Platform: Windows 10 Pro/x64/Python 3.6/Vim editor
 """
 
+"""
+Sample TestCase 1
+
+Input
+Hello Python 3!
+I am coming back to the race.
+
+Output
+Hello Python 3!
+I am coming back to the race.
+"""
+
 # program start
 
 # creating a variable

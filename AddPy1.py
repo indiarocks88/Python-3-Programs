@@ -18,7 +18,7 @@ num1 = input ("Please enter first number:\n")
 num2 = input ("Please enter second number:\n")
 
 # calculating addition
-result = int(num1) + int(num2) 
+result = int(num1) + int(num2) # type casting
 
 # printing result
 print ("\n\nThe addition of {0} and {1} is: {2}" .format(num1, num2, result))
@@ -31,5 +31,12 @@ print ("\n\nThe addition of {0} and {1} is: {2}" .format(num1, num2, result))
 """
 Output:
 
+Please enter first number:
+45
+Please enter second number:
+45
+
+
+The addition of 45 and 45 is: 90
 """
 

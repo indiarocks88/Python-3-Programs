@@ -1,5 +1,5 @@
 """
-Program: Python 3 program to calculate and display the multiplication of two numbers on the console screen.
+Program: Python 3 program to calculate and display the multiplication of two numbers on the console screen entered by the user.
 Date: Tue, 23-03-2021
 @author: Ankur Saxena
 Platform: Windows 10 Pro/x64/Python 3.6/Vim editor

@@ -11,7 +11,7 @@ num1 = input ("Please enter first number:\n")
 num2 = input ("Please enter second number:\n")
 
 # calculate division
-result = float(num1) * float(num2)
+result = float(num1) / float(num2)
 
 # print result
 print ("\nThe division of ", num1, " and ", num2, " is: ", result)
@@ -31,9 +31,6 @@ Please enter first number:
 Please enter second number:
 5
 
-The division of  125  and  5  is:  625.0
-
-
-Thanks for using my application!
+The division of  125  and  5  is:  25.0
 """
 

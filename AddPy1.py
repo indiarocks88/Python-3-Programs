@@ -21,7 +21,7 @@ num2 = input ("Please enter second number:\n")
 result = int(num1) + int(num2) # type casting
 
 # printing result
-print ("\n\nThe addition of {0} and {1} is: {2}" .format(num1, num2, result))
+print ("\n\nThe addition of {0} and {1} is: {2}" .formax(num1, num2, result))
 
 # program end
 

@@ -15,8 +15,8 @@ os.system ("cls") # clear the console screen
 # for linux or macos users, use "clear" command inside the "os.system()" function
 
 # take input from the user
-width = float (input ("Please enter the width of the rectangle:\n"))
-height = float (input ("Please enter the height of the rectangle:\n"))
+width = float (input ("Please enter width of the rectangle:\n"))
+height = float (input ("Please enter height of the rectangle:\n"))
 
 # calculate area of rectangle
 area = width * height
@@ -32,9 +32,9 @@ print ("\nThe area of the rectangle is: ", area)
 """
 output:
 
-Please enter the width of the rectangle:
+Please enter width of the rectangle:
 25
-Please enter the height of the rectangle:
+Please enter height of the rectangle:
 5
 
 The area of the rectangle is:  125.0

@@ -22,7 +22,7 @@ os.system ("cls") # clear the console screen
 
 # for linux or macos users, use "clear" command inside the "os.system()" function
 
-# take imput from the user
+# take input from the user
 a = float (input ("Please enter the value of a:\n"))
 b = float (input ("Please enter the value of b:\n"))
 # calculate area of ellipse
